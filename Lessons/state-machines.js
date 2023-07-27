@@ -61,3 +61,6 @@ function modifyTrafficLightState(newState) {
 }
 
 modifyTrafficLightState("red");
+// when using functions to change the current item based on the states you can make premade choices like the following
+
+//"w": ["crumbled bridge"], "n" ["cracked bridge"], etc.
